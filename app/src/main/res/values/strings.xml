@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_text">Meu aplicativo Kotlin</string>
+
 </resources>
